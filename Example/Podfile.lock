@@ -1,0 +1,16 @@
+PODS:
+  - libDemo (0.1.0)
+
+DEPENDENCIES:
+  - libDemo (from `../`)
+
+EXTERNAL SOURCES:
+  libDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  libDemo: 6eb4877f6ea016c614077b9a80f5638954e6a515
+
+PODFILE CHECKSUM: de49c829a1ae9225a2ddde6d8683434853b0cee5
+
+COCOAPODS: 1.2.1
